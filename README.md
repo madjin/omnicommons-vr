@@ -1,2 +1,2 @@
-# sudoroom-vr
+# Omni Commons VR
 virtual hackerspace
